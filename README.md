@@ -1,2 +1,2 @@
 # Bubble Sort on Strings:
-### To perform bubble
+### To perform bubble sort on Strings 
